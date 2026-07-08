@@ -17,6 +17,7 @@
 | Police Truck | Dead Kennedys | G: E Standard<br>B: E Standard | same as in-game |
 | Space Truckin' | Deep Purple | G: E Standard<br>B: E Standard | same as in-game |
 | Long Train Runnin' | Doobie Brothers | G: E Standard<br>B: E Standard | same as in-game |
+| Enough Space | Foo Fighters | G: E Standard<br>B: E Standard | same as in-game |
 | This Is a Call | Foo Fighters | G: E Standard<br>B: E Standard | same as in-game |
 | Our Lips Are Sealed | Go-Go's | G: E Standard<br>B: E Standard | same as in-game |
 | Feel Good Inc. | Gorillaz | G: E Standard<br>B: E Standard | G: E Standard<br> Eb Standard |
@@ -68,6 +69,7 @@
 | YYZ | Rush | G: E Standard<br>B: E Standard | same as in-game |
 | They Say | Scars On Broadway | G: Drop D<br>B: Drop D | G: Drop C#<br>B: Drop C# |
 | All of This | Shaimus | G: E Standard<br>B: E Standard | same as in-game |
+| Song with a Mission | as made famous by The Sounds | G: E Standard<br>B: E Standard | same as in-game |
 | A Day Like This | SpongeBob SquarePants | G: E Standard<br>B: E Standard | same as in-game |
 | The Best Day Ever | SpongeBob SquarePants | G: E Standard<br>B: E Standard | same as in-game |
 | B.Y.O.B. | System of a Down | G: Drop D<br>B: Drop D | G: Eb Drop Db<br>B: Eb Drop Db |
